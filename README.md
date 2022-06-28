@@ -1,4 +1,4 @@
-# CRUD Project
+# Sidebar Modal Project
 
 ## Project setup
 
